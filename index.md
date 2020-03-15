@@ -2,6 +2,7 @@
 <head>       
   <title>洛谷-NPSY出题所-官方网站</title>
   <style type="text/css">
+    body {background-image: url(http://img3.imgtn.bdimg.com/it/u=3572518118,600855199&fm=26&gp=0.jpg);}
     p.line {padding: 20px;}
     p.delete {text-decoration: line-through;}
   </style>
