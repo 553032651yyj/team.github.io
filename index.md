@@ -20,17 +20,6 @@
 
   <body>
   
-    <style type="text/css">
-    
-      body {background-image: url(http://img3.imgtn.bdimg.com/it/u=3572518118,600855199&fm=26&gp=0.jpg);}
-    
-      p.line {text-indent: 2em;}
-    
-      p.line2 {text-indent: 4em;}
-    
-      h4.line {text-indent: 2em;}
-
-    </style>
     <h3>团队信息</h3>
     
     <p class="line">团队:<a herf="https://www.luogu.com.cn/team/25027" target="_blank">NPSY出题所</a>
