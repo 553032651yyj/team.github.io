@@ -14,6 +14,10 @@
     
       h4.line {text-indent: 2em;}
     
+      a:link {color:#FF0000;}	
+      a:visited {color:#00FF00;}
+      a:hover {color:#FF00FF;}
+      a:active {color:#0000FF;}
     </style>
 
   </head>
@@ -22,7 +26,7 @@
   
     <h3>团队信息</h3>
     
-    <p class="line">团队:<a herf="https://www.luogu.com.cn/team/25027">NPSY出题所</a>
+    <p class="line">团队:<a herf="https://www.luogu.com.cn/team/25027" target="_blank">NPSY出题所</a>
     
     <h3>团队成员</h3>
     
