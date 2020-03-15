@@ -8,6 +8,6 @@
 </head>
 <body>
   <h3>团队信息</h3>
-  <p class="line">团队:</p><a herf="https://www.luogu.com.cn/team/25027">NPSY出题所</a>
+  <p>团队:<a herf="https://www.luogu.com.cn/team/25027">NPSY出题所</a></p>
 </body>
 </html>
