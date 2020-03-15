@@ -14,10 +14,6 @@
     
       h4.line {text-indent: 2em;}
     
-      a:link {color:#FF0000;}	
-      a:visited {color:#00FF00;}
-      a:hover {color:#FF00FF;}
-      a:active {color:#0000FF;}
     </style>
 
   </head>
@@ -33,11 +29,7 @@
       p.line2 {text-indent: 4em;}
     
       h4.line {text-indent: 2em;}
-    
-      a:link {color:#FF0000;}	
-      a:visited {color:#00FF00;}
-      a:hover {color:#FF00FF;}
-      a:active {color:#0000FF;}
+
     </style>
     <h3>团队信息</h3>
     
