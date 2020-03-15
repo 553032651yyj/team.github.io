@@ -12,8 +12,7 @@
 <body>
   <aside>
     <h3>团队信息</h3>
-    <p class="line">团队:<a herf="https://www.luogu.com.cn/team/25027">NPSY出题所</a></p>
-    <br><br>
+    <p class="line">团队:<a herf="https://www.luogu.com.cn/team/25027">NPSY出题所</a></p
     <h3>团队成员</h3>
     <h4 class="line">出题组</h4>
       <p class="line2">wjh_</p>
