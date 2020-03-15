@@ -5,7 +5,6 @@
     body {background-color: grey}
   </style>
 </head>
-</head>
 <body>
   <h3>团队信息</h3>
   
