@@ -16,7 +16,7 @@
   </head>
   <body>
     <h3>团队信息</h3>   
-    <p class="line">团队:<a herf="https://www.luogu.com.cn/team/25027" target="_blank">NPSY出题所</a>  
+    <p class="line">团队:<a herf="https://www.luogu.com.cn/team/25027" target="_blank">NPSY出题所</a></p>
     <h3>团队成员</h3> 
     <h4 class="line">出题组</h4>
     <p class="line2">wjh_,553032651yyj,wxh_______,chenpengda,时律,Konjak</p>
@@ -38,7 +38,7 @@
       <th>5</th>
     </tr>
     <tr>
-      <td>Steven</td>
+      <td>NPSYZX</td>
       <td>Jobs</td>
     </tr>
   </body>
