@@ -6,6 +6,12 @@
       p.line {text-indent: 2em;}
       p.line2 {text-indent: 4em;}
       h4.line {text-indent: 2em;}
+      table{
+        border-collapse:collapse;
+      }
+      table, td, th{
+        border:1px solid black;
+      }
     </style>
   </head>
   <body>
@@ -20,5 +26,20 @@
     <p class="line2">wjh_,553032651yyj,wxh_______,chenpengda,时律</p>
     <h4 class="line">吉祥物</h4>
     <p class="line2">NPSYZX,洛谷,ScanfN</p>
+    <h3>团队记分</h3>
+    <tr>
+      <th>用户名</th>
+      <th>分数</th>
+      <th>level</th>
+    </tr>
+    <tr>
+      <th>洛谷</th>
+      <th>∞</th>
+      <th>5</th>
+    </tr>
+    <tr>
+      <td>Steven</td>
+      <td>Jobs</td>
+    </tr>
   </body>
 </html>
